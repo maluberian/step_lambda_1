@@ -1,2 +1,4 @@
-# step_lambda_1
-Step function lambda 1
+# Description
+Just a simple lambda meant to play with step-functions
+a little bit.
+
