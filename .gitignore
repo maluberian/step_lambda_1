@@ -26,3 +26,10 @@ go.work.sum
 
 # IDEA files
 .idea/
+
+# don't commit sendgrid env
+sendgrid.env
+
+# do NOT commit build artifacts
+bootstrap
+pkg.zip

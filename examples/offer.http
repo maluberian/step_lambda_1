@@ -1,0 +1,6 @@
+POST http://localhost:8080/2015-03-31/functions/function/invocations
+Content-Type: application/json
+
+{ "id": 123, "seller": "dustin.clifford@gmail.com", "buyer": "dustin.clifford@bravolt.com", "offerAmount": 23.35, "requestAmount": 30.00, "status": "OFFERED"  }
+
+###

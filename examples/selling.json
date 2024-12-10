@@ -1,0 +1,8 @@
+{
+  "id": 123,
+  "seller": "dustin.clifford@gmail.com",
+  "buyer": "dustin.clifford@bravolt.com",
+  "offerAmount": 23.35,
+  "requestAmount": 30.00,
+  "status": "OFFERED"
+}
